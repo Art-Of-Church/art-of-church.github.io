@@ -1,0 +1,25 @@
+{
+  "name": "art-of-church.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node buildScripts/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Art-Of-Church/art-of-church.github.io.git"
+  },
+  "keywords": [],
+  "author": "Preston Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Art-Of-Church/art-of-church.github.io/issues"
+  },
+  "homepage": "https://github.com/Art-Of-Church/art-of-church.github.io#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "open": "0.0.5",
+    "path": "^0.12.7"
+  }
+}

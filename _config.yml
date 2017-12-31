@@ -1,1 +1,1 @@
-exclude: [ package.json, README.md, node_modules ]
+exclude: [ .editorconfig, package.json, package-lock.json, README.md, node_modules ]
